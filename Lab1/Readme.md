@@ -19,7 +19,7 @@ This program:
 
 - Implements scene composition, i.e., the possibility to render multiple models, with custom parameters for scaling, rotation, and translation.
 
-<p align="left">
-  <img src="assets/scene.png" alt="Scene Composition" height="300"><br>
-  <em>Scene Composition</em>
-</p>
+| Scene Composition |
+|----------------------------|
+| <img src="assets/scene.png" alt="Scene Composition" height="300"><br>
+  <em>Scene Composition</em> |
