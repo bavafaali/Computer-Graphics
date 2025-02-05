@@ -6,13 +6,13 @@ This program:
 - Impements interactive translation and rotation of the camera using keyboard keys
 - Implements perspective and parallel projection
 
+<center>
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <center>
   <figure style="text-align: center; position: relative;">
     <img src="assets/par.png" alt="Parallel Projection" width="250">
     <figcaption style="position: absolute; bottom: 10; width: 100%;">Parallel Projection</figcaption>
-  </center>
   </figure>
+</center>
  
   <figure style="text-align: center; position: relative;">
     <img src="assets/pers.png" alt="Perspective Projection" width="250">
