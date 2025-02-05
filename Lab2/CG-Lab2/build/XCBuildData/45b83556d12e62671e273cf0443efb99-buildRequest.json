@@ -1,0 +1,45 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "b1cf3470bc09010bbf6f5a6c34ca72c6c8cbb36240eda4782c4cd1401516c700"
+    }
+  ],
+  "containerPath" : "/Users/Bavafa/Desktop/CG-Lab2/CG-Lab2.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/Bavafa/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/Bavafa/Library/Developer/Xcode/DerivedData/CG-Lab2-fpfiudlpfnopfiaowrvvrlubmyht/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/Bavafa/Library/Developer/Xcode/DerivedData/CG-Lab2-fpfiudlpfnopfiaowrvvrlubmyht/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

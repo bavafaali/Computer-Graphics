@@ -1,0 +1,13 @@
+Target dependency graph (5 targets)
+ZERO_CHECK in CG-Lab2, no dependencies
+lib_algebra in CG-Lab2, depends on:
+ZERO_CHECK in CG-Lab2 (explicit)
+lib_camera in CG-Lab2, depends on:
+ZERO_CHECK in CG-Lab2 (explicit)
+lib_mesh in CG-Lab2, depends on:
+ZERO_CHECK in CG-Lab2 (explicit)
+DVA338_Lab1 in CG-Lab2, depends on:
+ZERO_CHECK in CG-Lab2 (explicit)
+lib_algebra in CG-Lab2 (explicit)
+lib_camera in CG-Lab2 (explicit)
+lib_mesh in CG-Lab2 (explicit)
