@@ -5,23 +5,13 @@ This program:
 - Implements custom translation, rotation and scaling functions and leverages them to apply the transformation from world to camera coordinates.
 - Impements interactive translation and rotation of the camera using keyboard keys
 - Implements perspective and parallel projection
- 
-<div style="display: flex; justify-content: center; gap: 20px;">
-    <figure>
-  <img src="assets/par.png" alt="Parallel Projection" width="250">
-  <figcaption>Parallel Projection</figcaption>
-    </figure>
-    <figure>
-  <img src="assets/pers.png" alt="Perspective Projection" width="250">
-    <figcaption>Perspective Projection</figcaption>
-      </figure>
-</div>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <figure style="text-align: center; position: relative;">
     <img src="assets/par.png" alt="Parallel Projection" width="250">
     <figcaption style="position: absolute; bottom: 0; width: 100%;">Parallel Projection</figcaption>
   </figure>
+ 
   <figure style="text-align: center; position: relative;">
     <img src="assets/pers.png" alt="Perspective Projection" width="250">
     <figcaption style="position: absolute; bottom: 0; width: 100%;">Perspective Projection</figcaption>
