@@ -6,9 +6,9 @@ This program:
 - Implements interactive translation and rotation of the camera using keyboard keys.
 - Implements perspective and parallel projection.
 
-|   | Parallel Projection | Perspective Projection |   |
-|---|---------------------|-----------------------|---|
-|   | <img src="assets/par.png" width="250"> | <img src="assets/pers.png" width="250"> |   |
+| Parallel Projection | Perspective Projection |
+|---------------------|-----------------------|
+| <img src="assets/par.png" width="250"> | <img src="assets/pers.png" width="250"> |
 
 
 - Calculates and stores vertex normals for all triangle meshes and renders them as if they were RGB colors over the surfaces of the meshes.
@@ -19,7 +19,7 @@ This program:
 
 - Implements scene composition, i.e., the possibility to render multiple models, with custom parameters for scaling, rotation, and translation.
 
-<p align="center">
+<p align="left">
   <img src="assets/scene.png" alt="Scene Composition" height="300"><br>
   <em>Scene Composition</em>
 </p>
