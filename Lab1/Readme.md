@@ -6,9 +6,10 @@ This program:
 - Implements interactive translation and rotation of the camera using keyboard keys.
 - Implements perspective and parallel projection.
 
-| Parallel Projection | Perspective Projection |
-|---------------------|-----------------------|
-| <img src="assets/par.png" alt="Parallel Projection" width="250"> | <img src="assets/pers.png" alt="Perspective Projection" width="250"> |
+|   | Parallel Projection | Perspective Projection |   |
+|---|---------------------|-----------------------|---|
+|   | <img src="assets/par.png" width="250"> | <img src="assets/pers.png" width="250"> |   |
+
 
 - Calculates and stores vertex normals for all triangle meshes and renders them as if they were RGB colors over the surfaces of the meshes.
 
