@@ -10,7 +10,7 @@ This program:
   <center>
   <figure style="text-align: center; position: relative;">
     <img src="assets/par.png" alt="Parallel Projection" width="250">
-    <figcaption style="position: absolute; bottom: 0; width: 100%;">Parallel Projection</figcaption>
+    <figcaption style="position: absolute; bottom: 10; width: 100%;">Parallel Projection</figcaption>
   </center>
   </figure>
  
