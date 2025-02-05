@@ -17,6 +17,17 @@ This program:
       </figure>
 </div>
 
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <figure style="text-align: center; position: relative;">
+    <img src="assets/par.png" alt="Parallel Projection" width="250">
+    <figcaption style="position: absolute; bottom: 0; width: 100%;">Parallel Projection</figcaption>
+  </figure>
+  <figure style="text-align: center; position: relative;">
+    <img src="assets/pers.png" alt="Perspective Projection" width="250">
+    <figcaption style="position: absolute; bottom: 0; width: 100%;">Perspective Projection</figcaption>
+  </figure>
+</div>
+
 - Calculates and stores vertex normals for all triangle meshes and renders them as if they were RGB colours over the surfaces of the meshes.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
