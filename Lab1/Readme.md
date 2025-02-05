@@ -7,9 +7,11 @@ This program:
 - Implements perspective and parallel projection
 
 <div style="display: flex; justify-content: center; gap: 20px;">
+  <center>
   <figure style="text-align: center; position: relative;">
     <img src="assets/par.png" alt="Parallel Projection" width="250">
     <figcaption style="position: absolute; bottom: 0; width: 100%;">Parallel Projection</figcaption>
+  <\center>
   </figure>
  
   <figure style="text-align: center; position: relative;">
