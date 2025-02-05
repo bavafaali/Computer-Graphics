@@ -1,0 +1,7 @@
+/Users/Bavafa/Desktop/CG-Lab2/CMakeFiles/lib_algebra.dir
+/Users/Bavafa/Desktop/CG-Lab2/CMakeFiles/lib_camera.dir
+/Users/Bavafa/Desktop/CG-Lab2/CMakeFiles/lib_mesh.dir
+/Users/Bavafa/Desktop/CG-Lab2/CMakeFiles/DVA338_Lab1.dir
+/Users/Bavafa/Desktop/CG-Lab2/CMakeFiles/RUN_TESTS.dir
+/Users/Bavafa/Desktop/CG-Lab2/CMakeFiles/ALL_BUILD.dir
+/Users/Bavafa/Desktop/CG-Lab2/CMakeFiles/ZERO_CHECK.dir
