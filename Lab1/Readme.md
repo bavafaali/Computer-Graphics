@@ -21,5 +21,4 @@ This program:
 
 | Scene Composition |
 |----------------------------|
-| <img src="assets/scene.png" alt="Scene Composition" height="300"><br>
-  <em>Scene Composition</em> |
+| <img src="assets/scene.png" alt="Scene Composition" height="300"> |
