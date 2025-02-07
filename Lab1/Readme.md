@@ -1,4 +1,4 @@
-### Transformations and Scene Rendering
+## Transformations and Scene Rendering
 
 This program:
 - Renders triangle meshes using OpenGL. 
