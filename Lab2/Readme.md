@@ -1,4 +1,4 @@
-### Shader programming
+## Shader programming
 
 Highlights:
 - Implements a shader program that uses the Phong Reflection Model to find the light intensity at polygon vertices, and then uses Gouraud shading over the triangle surfaces.
